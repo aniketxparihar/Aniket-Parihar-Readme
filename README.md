@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/aniketparihar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 <a href="https://twitter.com/aniketxparihar" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
 
-## 👋 Hey Folks . 
+## Hey Folks👋. 
 I'm a Frontend Developer and I work in the React Ecosystem. 
 Lately I've been exploring Typescript , Jest , Webpack and Babel.
 
