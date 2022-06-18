@@ -25,8 +25,6 @@ Lately I've been exploring Typescript , Jest , Webpack and Babel.
 <img src="https://img.shields.io/badge/Jest-05122A?style=flat&logo=jest" alt="jest Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma" alt="figma Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase" alt="firebase Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="git Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=java" alt="java Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
