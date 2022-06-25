@@ -4,7 +4,8 @@
 <a href="https://twitter.com/aniketxparihar" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
 
 ## Hey Folks👋. 
-I'm a Frontend Developer and I work in the React Ecosystem. 
+I'm a CS Grad and looking for Frontend Development Roles. 
+I work in the React Ecosystem. 
 Lately I've been exploring Typescript , Jest , Webpack and Babel.
 
 
@@ -12,7 +13,7 @@ Lately I've been exploring Typescript , Jest , Webpack and Babel.
 
 ## About me
 🎓&nbsp;Graduated in **2022**
-<br/>💡&nbsp;I'm interested about **Web Development and Fitness**
+<br/>💡&nbsp;I'm interested about **Web Development**
 <br/>⚡&nbsp;Fun fact **I want to learn Martial Arts and Flute :)**
 <br/>📫&nbsp;Reach me [aniket.parihar1718@gmail.com](mailto:aniket.parihar1718@gmail.com)
 
