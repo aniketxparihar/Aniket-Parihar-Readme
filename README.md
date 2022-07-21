@@ -11,10 +11,6 @@ Lately I've been exploring Typescript , Jest , Webpack and Babel.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aniketxparihar&theme=default&color=blue&style=flat&label=Profile+Views)
 
-## About me
-🎓&nbsp;Graduated in **2022**
-<br/>💡&nbsp;I'm interested about **Web Development**
-<br/>⚡&nbsp;Fun fact **I want to learn Martial Arts and Flute :)**
 <br/>📫&nbsp;Reach me [aniket.parihar1718@gmail.com](mailto:aniket.parihar1718@gmail.com)
 
 ## Tech Stack
